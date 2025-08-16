@@ -8,3 +8,4 @@ Multimodal parkinson's disease portal
 + Gyanam Jain
 + Siddharth Jha
 + Pallav Rai
++ Sajal Seth
